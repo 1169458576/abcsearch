@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/text_pop"
+        android:layout_width="45dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/icon_pop"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:paddingRight="4dp"
+        android:text="A"/>
+</LinearLayout>
